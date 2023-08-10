@@ -1,0 +1,5 @@
+tinytag
+python-vlc
+yt_dlp
+validators
+requests
